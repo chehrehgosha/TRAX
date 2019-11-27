@@ -1,5 +1,6 @@
 # TRAX
-Project for Digital Systems Design - Implementing the TRAX Game (A complete description of this game can be found at [Wikipedia](https://en.wikipedia.org/wiki/https://en.wikipedia.org/wiki/Trax_(game)).
+Project for Digital Systems Design - Implementing the TRAX Game in Verilog (A complete description of this game can be found at [Wikipedia](https://en.wikipedia.org/wiki/https://en.wikipedia.org/wiki/Trax_(game)).
+
 Here you can find the files related to:
 1. UART Protocol (some of the data here is obtained from [Wikipedia](https://en.wikipedia.org/wiki/Universal_asynchronous_receiver-transmitter)): in this protocol there are two wires:
    1. Rx: for receiving the data. At sampling rates which is defined by a frequency in the system, the value of the incoming bit is considered as the received bit.

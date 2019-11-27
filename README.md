@@ -7,4 +7,4 @@ Here you can find the files related to:
 1. Tranceiver:
    1. This module is capable of deciding a right move at each step. According to the game table (which holds the current state of the game) this module calculate a possible move and can send it to the server.
 1. TRAX Module:
-   1.Final implementation of the TRAX module. One can import this module on two different FPGA boards and those boards can play this game with each other.
+   1. Final implementation of the TRAX module. One can import this module on two different FPGA boards and those boards can play this game with each other.
